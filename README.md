@@ -1,7 +1,7 @@
 [![MasterHead](https://iconscout.com/lottie-animation/data-analysis-3572717)](https://www.linkedin.com/in/abhijeettayade/)
 <h1 align="center">Hi 👋, I'm Abhijeet Tayade</h1>
 <h3 align="center">A Data Analytics enthusiast!</h3>
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/premium-vector/business-analysis-data-analytics-research-statistic-planning-man-working-desk-office_11596642.html">
+<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/data-analytics-4798615">
 
 - 🔭 I’m currently working on **improving my Data Analytics Skills.**
 
