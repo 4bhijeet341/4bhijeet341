@@ -3,10 +3,10 @@
 <h3 align="center">A Data Analytics enthusiast!</h3>
 
 <br>
-<br>
-- 🔭 I’m currently working on **improving my Data Analytics Skills.**
 
-- 🌱 I’m currently learning **MS Excel - Spreadsheets, SQL, Python, Power Bi & Tableau**
+- 🔭 I’m currently working on **improving my skills**.
+
+- 🌱 I’m currently learning **MS Excel - Spreadsheets, SQL, Python, Power Bi & Tableau**.
 
 - 👯 I’m looking to collaborate on **Data oriented projects.**
 
