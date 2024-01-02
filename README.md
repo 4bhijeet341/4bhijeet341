@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abhijeettayade/](https://www.linkedin.com/in/abhijeettayade/)
 
-- ⚡ Fun fact **I'm a Fresher!**
+- ⚡ Fun fact **I'm a Fresher!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
